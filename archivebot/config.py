@@ -10,6 +10,7 @@ default_config = {
         "phone_number": "your_phone_number (empty if not in userbot mode)",
         "app_api_id": 15916448,
         "app_api_hash": "c6f36f2887586704871201a0fea2e452",
+                }
     },
     "database": {"sql_uri": "postgres://nrhzsfzc:VMSACIKMxJimwXRSkSCa6-QxB2pLQsTB@raja.db.elephantsql.com/nrhzsfzc",},
     "logging": {"sentry_enabled": False, "sentry_token": "",},
